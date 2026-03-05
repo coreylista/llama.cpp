@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "services": {
+        "svc:llama": {
+            "endpoints": {
+                "tcp:8888": "tcp://localhost:8888"
+            }
+        }
+    }
+}
